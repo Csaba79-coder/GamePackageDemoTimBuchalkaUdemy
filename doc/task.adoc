@@ -3,3 +3,5 @@
 File -> project strutures -> artifact -> + and jar from Modules with dependencies.
 
 And that above creates the jar file!
+
+and them Build -> Build Artifacts and check in out folder the jar file, weather it is created or not
