@@ -1,0 +1,5 @@
+= How to create a jar file
+
+File -> project strutures -> artifact -> + and jar from Modules with dependencies.
+
+And that above creates the jar file!
